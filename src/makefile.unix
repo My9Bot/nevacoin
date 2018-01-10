@@ -198,4 +198,4 @@ clean:
 	-rm -f obj/*.P
 	-rm -f obj/build.h
 
-FORCE:
+FORCE:t
